@@ -7,6 +7,7 @@
 - [Contributing](#contributing)
 - [Legacy](#legacy)
 # Docker Compose v2
+# By Mudassir Alam
 
 [![GitHub release](https://img.shields.io/github/release/docker/compose.svg?style=flat-square)](https://github.com/docker/compose/releases/latest)
 [![PkgGoDev](https://img.shields.io/badge/go.dev-docs-007d9c?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/github.com/docker/compose/v2)
